@@ -13,7 +13,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smit-Zaveri&theme=dark&hide_border=false&layout=compact&custom_title=Top%20Languages)
 
 ### 📫 Contact Me
-- Email: [smit.zaveri@example.com](mailto:smit.zaveri@example.com)
+- Email: [smitzaveri1003@gmail.com](mailto:smitzaveri1003@gmail.com)
 - LinkedIn: [Smit Zaveri](https://linkedin.com/in/smit-zaveri)
 
 ### 💰 You can help me by Donating
