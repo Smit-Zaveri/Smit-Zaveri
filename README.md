@@ -13,7 +13,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smit-Zaveri&theme=dark&hide_border=false&layout=compact&custom_title=Top%20Languages)
 
 ## 🧑‍💻 LeetCode
-![LeetCode Stats](https://leetcode.card.workers.dev/smit5364?theme=dark&font=&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/Smit-Zaveri?theme=dark&font=&extension=null)
 
 ### 📫 Contact Me
 - Email: [smitzaveri1003@gmail.com](mailto:smitzaveri1003@gmail.com)
