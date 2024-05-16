@@ -12,6 +12,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Smit-Zaveri&theme=dark&hide_border=false&custom_title=GitHub%20Streak)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smit-Zaveri&theme=dark&hide_border=false&layout=compact&custom_title=Top%20Languages)
 
+## 👨‍💻 Progress
+[![roadmap.sh](https://roadmap.sh/card/wide/64b8a14e8a29ad56fa99503a?variant=dark)](https://roadmap.sh)
+
 ## 🧑‍💻 LeetCode
 ![LeetCode Stats](https://leetcode.card.workers.dev/Smit-Zaveri?theme=dark&font=&extension=null)
 
