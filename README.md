@@ -16,7 +16,7 @@
 [![roadmap.sh](https://roadmap.sh/card/wide/64b8a14e8a29ad56fa99503a?variant=dark)](https://roadmap.sh)
 
 ## 🧑‍💻 LeetCode
-![LeetCode Stats](https://leetcode.card.workers.dev/Smit-Zaveri?theme=dark&font=&extension=null)
+[![LeetCode Stats](https://leetcode.card.workers.dev/Smit-Zaveri?theme=dark&font=&extension=null)](https://leetcode.com/u/Smit-Zaveri/)
 
 ### 📫 Contact Me
 - Email: [smitzaveri1003@gmail.com](mailto:smitzaveri1003@gmail.com)
